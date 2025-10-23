@@ -1,6 +1,6 @@
 ## Desafio Conta Corrente
 
-Esse é um projeto acadêmnico (Alura) para criação de um sistema simples de consulta, envio e recebimento de valores. 
+Esse é um projeto acadêmico (Alura) para criação de um sistema simples de consulta, envio e recebimento de valores. 
 
 Todo efeito em Java. 
 
